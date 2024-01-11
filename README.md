@@ -20,4 +20,5 @@
 
 
 # 🦾 Tools
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-#007ACC?style=flat-square&logo=로고&logoColor=색상"/>
+ <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=색상"/>
+  <img src="https://img.shields.io/badge/GitHub-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=색상"/>
