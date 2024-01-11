@@ -1,1 +1,1 @@
-![김윤홍입니다.](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&fontSize=30&animation=twinkling&text=%20백엔드%20개발을%20희망하는%20김윤홍입니다🧑‍💻 )
+![](https://capsule-render.vercel.app/api?type=waving&&color=auto&height=200&section=header&fontSize=30&animation=twinkling&text=개발을%20더%20잘하는%20기획자%20김윤홍입니다🖥️)
