@@ -1,5 +1,10 @@
 ![](https://capsule-render.vercel.app/api?type=waving&&color=0:0702e3,100:9290f5&height=200&section=header&fontSize=30&animation=twinkling&fontColor=FFFFFF&text=개발을%20더%20잘하고%20싶은%20기획자%20김윤홍입니다🖥️)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chelsea7023&theme=transparent)](https://github.com/chelsea7023/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 ### 혼자 가면 빨리 가지만 같이 가면 멀리 갈 수 있다! 11기 화이팅 !!
 * 사는 곳 : 서울
 * 취미 : 배드민턴🏸(9년차), 축구⚽(플랩:아마3), 코딩💻(핵초보)
