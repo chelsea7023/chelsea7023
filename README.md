@@ -1,1 +1,1 @@
-![](https://capsule-render.vercel.app/api?type=waving&&color=auto&height=200&section=header&fontSize=30&animation=twinkling&text=개발을%20더%20잘하는%20기획자%20김윤홍입니다🖥️)
+![](https://capsule-render.vercel.app/api?type=waving&&color=0:0702e3,100:9290f5&height=200&section=header&fontSize=30&animation=twinkling&text=개발을%20더%20잘하고%20싶은%20기획자%20김윤홍입니다🖥️)
