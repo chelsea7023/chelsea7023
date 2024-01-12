@@ -35,5 +35,4 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=chelsea7023&theme=algolia" height="140">
 
-
-
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelsea7023&theme=algolia" height="140">
