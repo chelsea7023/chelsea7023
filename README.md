@@ -29,8 +29,6 @@
 
 # <center>🛠️ Stacks</center>
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=plastic&logo=python&logoColor=white)
-![java](https://img.shields.io/badge/java-3776AB.svg?&style=plastic&logo=java&logoColor=white)
-
 
 # <center>🦾 Tools</center>
 ![github](https://img.shields.io/badge/github-181717.svg?&style=plastic&logo=github&logoColor=white)
