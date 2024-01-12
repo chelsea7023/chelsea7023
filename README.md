@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&&color=0:004666,100:004666&height=240&section=header&fontSize=30&animation=twinkling&fontColor=d1d1d1&text=세상을%20더%20즐겁게%20하고%20싶은%20김윤홍입니다🖥️&fontAlign=63&fontAlignY=45&desc=Faster%20Alone\,%20Further%20Together&descSize=20&descAlign=80)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:004666,100:004666&height=240&section=header&fontSize=30&animation=twinkling&fontColor=d1d1d1&text=세상을%20더%20즐기는%20개발자🖥️&fontAlign=76&fontAlignY=45&desc=Faster%20Alone\,%20Further%20Together&descSize=20&descAlign=80)
 
 
 #### 교수님이 원한 self description 
@@ -29,8 +29,6 @@
 
 # <center>🛠️ Stacks</center>
 ![](https://img.shields.io/badge/java-027abf)🌱
-
-
 
 # <center>🦾 Tools</center>
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=색상"/>
