@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:004666,100:004666&height=240&section=header&fontSize=30&animation=twinkling&fontColor=d1d1d1&text=세상을%20더%20즐기는%20개발자🖥️&fontAlign=76&fontAlignY=45&desc=Faster%20Alone\,%20Further%20Together&descSize=20&descAlign=80)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:004666,100:004666&height=240&section=header&fontSize=30&animation=twinkling&fontColor=f7f7f5&text=세상을%20더%20즐기는%20개발자🖥️&fontAlign=76&fontAlignY=45&desc=Faster%20Alone\,%20Further%20Together&descSize=20&descAlign=80)
 
 
 #### 교수님이 원한 self description 
