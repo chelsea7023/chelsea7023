@@ -13,26 +13,24 @@
 * 1학기의 마음가짐 포부 및 다짐 : ***미약하게 시작하지만 끝은 창대하게 될 수 있도록 노력하겠습니다.***
 
 #### Self Decription
-* live : 서울
-* hobby : 배드민턴🏸(9년차), 축구⚽(플랩:아마3), 코딩💻(핵초보)
-* MBTI : <u>**INFP**</u>
-* Movie : 엘리멘탈, 
-* Book : 나르치스와 골드문트, 오만과 편견
-* Soccer Team : Chelsea FC
-* Food : 라면 365일 가능 (삼양라면<-부대찌개 맛 나서)
-* Drink : 소주 1병 (맥주 한 모금 후 얼굴 빨개짐)
-* Company : 게임 회사 (크래프톤, 넥슨), 핀테크 기업, 해외 취업도 좋음
-* Game : 롤, 피파, 스타크래프트 
-* Singer : 검정치마, 백예린(INFP의 뮤즈)
-* Country : 일본, <u>👍이탈리아 - 피렌체</u>
-* Major : 영어영문 & 창업학
+* 👨‍🎓Major : English Language&Literature, Entrepreneurship
+* 🏡live : Seoul
+* 🧑‍🤝‍🧑hobby : Bedminton🏸(9th year), Soccer⚽(plab : amateur3), Coding💻(Newbie)
+* 🙂MBTI : <u>**INFP**</u>
+* 🎥Movie : ELemental 
+* 📚Book : Narcissus and Goldmund
+* ⚽Soccer Team : Chelsea FC
+* 🍲Food : Ramyun 365d available (👍Samyang)
+* 🍺Drink : Soju one bottle
+* 🏢Company : Game (Krafton, Nexon), Fintech, Global Company
+* 🎮Game : LoL, FCOnline, Starcraft 
+* 🎤Singer : 검정치마, 백예린(INFP의 뮤즈)
+* ✈️Country : JAPAN, <u>👍ITALYA - Firenze</u>
 
 # <center>🛠️ Stacks</center>
-![](https://img.shields.io/badge/java-027abf)🌱
+
 
 # <center>🦾 Tools</center>
- <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=색상"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=Github&logoColor=965106"/>
 
 # [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chelsea7023&theme=algolia)](https://github.com/chelsea7023/github-readme-stats)
 
