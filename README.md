@@ -24,7 +24,7 @@
 * 🍺Drink : Soju one bottle
 * 🏢Company : Game (Krafton, Nexon), Fintech, Global Company
 * 🎮Game : LoL, FCOnline, Starcraft 
-* 🎤Singer : 검정치마, 백예린(INFP의 뮤즈)
+* 🎤Singer : 검정치마, 백예린(Muse of INFP)
 * ✈️Country : JAPAN, <u>👍ITALYA - Firenze</u>
 
 # <center>🛠️ Stacks</center>
@@ -32,5 +32,5 @@
 
 # <center>🦾 Tools</center>
 
-# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chelsea7023&theme=algolia)](https://github.com/chelsea7023/github-readme-stats)
+# <center> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chelsea7023&theme=algolia)](https://github.com/chelsea7023/github-readme-stats) </center>
 
