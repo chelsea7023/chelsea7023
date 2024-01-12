@@ -33,7 +33,7 @@
 # <center>🦾 Tools</center>
 ![github](https://img.shields.io/badge/github-181717.svg?&style=plastic&logo=github&logoColor=white)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=chelsea7023&theme=algolia" height="120">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=chelsea7023&theme=algolia" height="140">
 
 
 
