@@ -33,6 +33,6 @@
 # <center>🦾 Tools</center>
 ![github](https://img.shields.io/badge/github-181717.svg?&style=plastic&logo=github&logoColor=white)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=chelsea7023&theme=algolia" height="150">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=chelsea7023&theme=algolia" height="160">
 
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelsea7023&theme=algolia" height="150">
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=chelsea7023&theme=algolia" height="160">
