@@ -33,5 +33,7 @@
 # <center>🦾 Tools</center>
 ![github](https://img.shields.io/badge/github-181717.svg?&style=plastic&logo=github&logoColor=white)
 
-# <center> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chelsea7023&theme=algolia)](https://github.com/chelsea7023/github-readme-stats) </center>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=chelsea7023&theme=algolia" height="120">
+
+
 
