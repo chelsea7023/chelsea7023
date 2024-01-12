@@ -14,8 +14,8 @@
 
 #### Self Decription
 * 👨‍🎓Major : English Language&Literature, Entrepreneurship
-* 🏡live : Seoul
-* 🧑‍🤝‍🧑hobby : Bedminton🏸(9th year), Soccer⚽(plab : amateur3), Coding💻(Newbie)
+* 🏡Home : Seoul
+* 🧑‍🤝‍🧑Hobby : Bedminton🏸(9th year), Soccer⚽(plab : amateur3), Coding💻(Newbie)
 * 🙂MBTI : <u>**INFP**</u>
 * 🎥Movie : ELemental 
 * 📚Book : Narcissus and Goldmund
