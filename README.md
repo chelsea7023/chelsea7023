@@ -3,7 +3,7 @@
 #### Self Decription
 * 👨‍🎓Major : English Language&Literature, Entrepreneurship
 * 🏡Home : Seoul
-* 🧑‍🤝‍🧑Hobby : Bedminton🏸(9th year), Soccer⚽(plab : amateur3), Coding💻(Newbie)
+* 🧑‍🤝‍🧑Hobby : Badminton🏸(9th year), Soccer⚽(plab : amateur3), Coding💻(Newbie)
 * 🙂MBTI : <u>**INFP**</u>
 * 🎥Movie : ELemental 
 * 📚Book : Narcissus and Goldmund
@@ -13,7 +13,10 @@
 * 🏢Company : Game (Krafton, Nexon), Fintech, Global Company
 * 🎮Game : LoL, FCOnline, Starcraft 
 * 🎤Singer : 검정치마, 백예린(Muse of INFP)
-* ✈️Country : JAPAN, <u>👍ITALYA - Firenze</u>
+* ✈️Country : JAPAN, <u>👍ITALY - Firenze</u>
+
+육민우 백태클 조심해라 ㅡㅡ
+임가현 풋살 나오라고 내일 
 
 # <center>🛠️ Stacks</center>
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=plastic&logo=python&logoColor=white)
