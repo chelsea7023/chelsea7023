@@ -34,7 +34,6 @@
 * 🎤Singer : 검정치마, 백예린(Muse of INFP)
 * ✈️Country : JAPAN, <u>👍ITALY - Firenze</u>
 
-<hr>
 <br>
 
 
@@ -48,5 +47,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=chelsea7023&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunhongzzag" height="135">
+<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunhongzzag" height="135">
 
