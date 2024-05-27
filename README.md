@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:004666,100:004666&height=240&section=header&fontSize=30&animation=twinkling&fontColor=f7f7f5&text=끊임없이%20발전하는%20%20개발자🖥️&fontAlign=76&fontAlignY=45&desc=Faster%20Alone\,%20Further%20Together&descSize=20&descAlign=80)
 
 
-# <center>🛠️ Stacks</center>
+# <center align="center">🛠️ Stacks</center>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
@@ -11,7 +11,7 @@
 
 
 
-# <center>🦾 Tools</center>
+# <center align="center">🦾 Tools</center>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vue,spring " />
@@ -47,9 +47,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=chelsea7023&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yunhongzzag" height="135">
 
