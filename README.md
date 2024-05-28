@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:004666,100:004666&height=240&section=header&fontSize=30&animation=twinkling&fontColor=f7f7f5&text=끊임없이%20발전하는%20%20개발자🖥️&fontAlign=76&fontAlignY=45&desc=Faster%20Alone\,%20Further%20Together&descSize=20&descAlign=80)
 
 
-# <center align="center">🛠️ Stacks</center>
+# <p align="center">🛠️ Stacks<p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css" />
@@ -11,7 +11,7 @@
 
 
 
-# <center align="center">🦾 Tools</center>
+# <p align="center">🦾 Tools</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vue,spring " />
